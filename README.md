@@ -15,9 +15,9 @@ Tämä on PelaajaAPI, joka on suunniteltu pelaajan edistymisen seurantaan. API t
 - Voit luoda uuden pelaajan.
 - Voit tallentaa pelaajalle uusia tapahtumia.
 
-## Käynnistysohjeet:
+## Käynnistysohjeet/Virtuaaliympäristön asennus:
 
-Avaa kansio (APP) Visual Studio Codessa ja avaa Command Palette (Ctrl+Shift+P). Kirjoita hakukenttään "Venv" (Virtuaali ympäristö) ja valitse (viimeisin ehdotus) asennettu Python versio.
+Avaa kansio (APP) Visual Studio Codessa ja avaa Command Palette (Ctrl+Shift+P). Kirjoita hakukenttään "Venv" ja valitse (viimeisin ehdotus) asennettu Python versio.
 
 ### Ympäristön asennus
 
