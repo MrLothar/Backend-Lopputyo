@@ -21,13 +21,13 @@ Avaa kansio (APP) Visual Studio Codessa ja avaa Command Palette (Ctrl+Shift+P). 
 
 ### Ympäristön asennus
 
-#### Asenna tarvittavat kirjastot ajamalla seuraavat komennot terminaalissa:
+#### Asenna tarvittavat kirjastot ajamalla seuraavat komennot terminaalissa (tarvittaessa):
 
 pip install fastapi
 
 pip install "uvicorn[standard]"
 
-cd app
+(cd app)
 
 ### Käynnistä sovellus seuraavalla komennolla:
 
